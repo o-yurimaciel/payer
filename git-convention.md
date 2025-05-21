@@ -8,7 +8,7 @@ Este guia define o padrão oficial de nomenclatura de branches e mensagens de co
 
 ### Formato
 
-- <tipo>/<id>-<descricao>
+- `<tipo>`/`<id>`-`<descricao>`
 
 ### Componentes
 
