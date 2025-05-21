@@ -28,9 +28,13 @@ Este guia define o padrão oficial de nomenclatura de branches e mensagens de co
 ### Exemplos
 
 feature/1234-login-social
+
 bugfix/2048-corrige-token-expirado
+
 refactor/3001-melhora-estrutura-css
+
 chore/4123-atualiza-dependencias
+
 docs/1099-ajusta-readme
 
 ---
@@ -66,9 +70,13 @@ Utilizamos Commits Semânticos para manter um histórico de mudanças claro e ú
 ### Exemplos
 
 feat(auth): adiciona login com Google [1234]
+
 fix(api): corrige erro na validação de token [2048]
+
 refactor(ui): melhora organização dos componentes [3001]
+
 chore: atualiza dependências do projeto [4123]
+
 docs(readme): adiciona instruções de execução [1099]
 
 > O identificador da tarefa (`[1234]`) pode ser incluído no início, no final ou entre parênteses, desde que seja consistente.
