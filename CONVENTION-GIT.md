@@ -8,7 +8,7 @@ Este guia define o padrão oficial de nomenclatura de branches e mensagens de co
 
 ### Formato
 
-<tipo>/<id>-<descricao>
+tipo/id-descricao
 
 ### Componentes
 
@@ -41,7 +41,7 @@ Utilizamos Commits Semânticos para manter um histórico de mudanças claro e ú
 
 ### Formato
 
-<tipo>(<escopo>): <mensagem no imperativo> [<id>]
+tipo(escopo): mensagem no imperativo [id]
 
 - `<tipo>`: intenção da mudança (veja tabela abaixo)
 - `<escopo>`: área do código afetada (opcional, mas recomendado)
